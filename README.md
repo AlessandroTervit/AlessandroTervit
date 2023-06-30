@@ -1,8 +1,8 @@
 #### general info:
-- Alessandro Tervit
-- 🇦🇹 / 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- 17yrs old
-- 🏫 IT HTL-Rennweg
+- name:               Alessandro Tervit
+- nationalities:      🇦🇹 / 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- age:                17yrs old
+- school:             IT HTL-Rennweg
   
 #### working on:
 - *insert new repo*
