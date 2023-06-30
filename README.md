@@ -18,4 +18,5 @@
 ##### currently learning:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='40'>](https://www.jetbrains.com/idea/)  
 
+##### 🔥:
 being taught by someone who understands what theyre saying even if its a complicated topic is easy
