@@ -1,11 +1,8 @@
 #### general info:
-- name:               Alessandro Tervit
+- name:‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Alessandro Tervit
 - nationalities:      🇦🇹 / 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - age:                17yrs old
 - school:             IT HTL-Rennweg
-  
-#### working on:
-- *insert new repo*
   
 #### favourite IDE:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>](https://www.jetbrains.com/idea/) 
@@ -18,5 +15,5 @@
 ##### currently learning:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='40'>](https://www.jetbrains.com/idea/)  
 
-##### 🔥:
-being taught by someone who understands what theyre saying even if its a complicated topic is easy
+
+> being taught by someone who understands what theyre saying even if its a complicated topic is easy
