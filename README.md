@@ -1,8 +1,8 @@
 #### general info:
 - name:‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎Alessandro Tervit
-- nationalities:      🇦🇹 / 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- age:                17yrs old
-- school:             IT HTL-Rennweg
+- nationalities: ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏ 🇦🇹 / 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- age:‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎  ‎‏‏‎ ‎‏‏‎ 17yrs old
+- school:‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎IT HTL-Rennweg
   
 #### favourite IDE:
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>](https://www.jetbrains.com/idea/) 
