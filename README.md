@@ -13,7 +13,7 @@
 ‎‎‎‎‎‎‎
 ‎
 ##### currently learning:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='40'>](https://www.jetbrains.com/idea/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='40'>]([https://www.jetbrains.com/idea](https://www.jetbrains.com/help/idea/create-your-first-android-application.html#ff386a08)/)  
 
 
 > being taught by someone who understands what theyre saying even if its a complicated topic is easy
