@@ -1,7 +1,7 @@
 #### general info:
 - name:‏‏‎‎ Alessandro Tervit
 - nationalities: 🇦🇹 / 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- age:‎  17yrs old
+- age:‎  old
 - school: ‎‏‏‎IT HTL-Rennweg
   
 #### favourite IDE:
