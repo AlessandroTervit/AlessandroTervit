@@ -4,8 +4,9 @@
 - age:‎  19
 - school: ‎‏‏‎IT HTL-Rennweg Web Development
   
-#### favourite IDE:
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>](https://www.jetbrains.com/idea/) 
+#### favourite IDEs:
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>](https://www.jetbrains.com/idea/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webstorm.svg' alt='webstorm' height='40'>](https://www.jetbrains.com/webstorm/)
+
 ‎‎
 ‎
 ##### skills:
